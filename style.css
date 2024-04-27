@@ -52,3 +52,13 @@ small{
 .f2{
     color: rgb(255, 255, 255);
 }
+.img1{
+    height: 500px;
+    width: 600px;
+}
+@media (max-width: 996px){
+    .img1{
+        height: 300px;
+        width:400px;
+    }
+}
